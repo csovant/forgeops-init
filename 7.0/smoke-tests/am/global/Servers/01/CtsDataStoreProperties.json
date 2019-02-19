@@ -34,7 +34,7 @@
     },
     "amconfig.org.forgerock.services.cts.store.external.section" : {
       "org.forgerock.services.cts.store.ssl.enabled" : {
-        "value" : false,
+        "value" : "",
         "inherited" : true
       },
       "org.forgerock.services.cts.store.directory.name" : {

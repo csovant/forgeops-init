@@ -45,14 +45,14 @@
       "userAttributeSessionMapping" : [ ],
       "loginPostProcessClass" : [ ],
       "usernameGeneratorEnabled" : true,
-      "loginSuccessUrl" : [ "/console" ]
+      "loginSuccessUrl" : [ "/am/console" ]
     },
     "core" : {
       "orgConfig" : "ldapService",
       "adminAuthModule" : "ldapService"
     },
     "trees" : {
-      "authenticationSessionsStateManagement" : "JWT",
+      "authenticationSessionsStateManagement" : "IN_MEMORY",
       "authenticationSessionsWhitelist" : false,
       "authenticationSessionsMaxDuration" : 5
     },
