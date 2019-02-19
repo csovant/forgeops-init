@@ -52,7 +52,7 @@
         "userAttributeSessionMapping" : [ ],
         "loginPostProcessClass" : [ ],
         "usernameGeneratorEnabled" : true,
-        "loginSuccessUrl" : [ "/console" ]
+        "loginSuccessUrl" : [ "/am/console" ]
       },
       "core" : {
         "orgConfig" : "[Empty]",
